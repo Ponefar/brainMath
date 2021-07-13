@@ -1,5 +1,5 @@
 # brainMath
 
-https://www.montpellier-meilleur-ville.site/app/brainMath.apk
+https://www.montpellier-meilleur-ville.site/appMobile/brainMath.apk
 
-Ouvrir via votre mobile ou via un émulateur.
+Ouvrir via votre mobile android ou via un émulateur android.
